@@ -31,8 +31,8 @@ To run this application, you need to have **Python** installed on your system. I
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd retail360-Self checkout system
+   git clone https://github.com/zenthicai/retail360-Self-checkout-system.git
+   cd retail360-Self-checkout-system
    ```
 
 2. **Create a virtual environment (optional but recommended):**
