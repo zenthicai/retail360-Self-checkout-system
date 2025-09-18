@@ -1,7 +1,7 @@
-🛒 Retail360 - AI Self-Checkout System
+#🛒 Retail360 - AI Self-Checkout System
 Retail360 is an AI-powered self-checkout system that revolutionizes the retail experience by enabling customers to scan their own products, pay digitally, and receive an instant digital exit pass. This application simplifies the shopping journey, reduces wait times, and provides a secure, efficient process for both customers and staff.
 
-✨ Features
+#✨ Features
 Customer Checkout Interface:
 
 Barcode Scanning: Add products to the cart by scanning their barcodes with a camera.
@@ -30,7 +30,7 @@ Business Analytics: View key metrics like total sales, transaction count, and pr
 
 Database Browser: Directly view and browse the contents of the products and transactions database tables.
 
-🚀 Getting Started
+#🚀 Getting Started
 Prerequisites
 To run this application, you need to have Python installed on your system. It's recommended to use a virtual environment.
 
